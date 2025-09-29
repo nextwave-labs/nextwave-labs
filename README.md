@@ -19,7 +19,7 @@ Nuestra meta es simular el flujo de trabajo de una empresa real, desarrollando p
 ---
 
 ## 📂 Proyectos destacados
-- 🔹 **[DevCorner](https://www.devcorner.top/)** – Blog de tecnología.  
+- **[DevCorner](https://www.devcorner.top/)** – Blog de tecnología.  
 
 ---
 
